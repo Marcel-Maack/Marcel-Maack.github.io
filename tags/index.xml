@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Meine neue Webseite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 03 Apr 2019 12:41:24 +0200</lastBuildDate>
     
 	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Links</title>
+      <link>http://example.org/tags/links/</link>
+      <pubDate>Wed, 03 Apr 2019 12:41:24 +0200</pubDate>
+      
+      <guid>http://example.org/tags/links/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
