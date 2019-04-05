@@ -6,9 +6,28 @@
     <description>Recent content in Kurse on Meine neue Webseite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2019 11:49:22 +0200</lastBuildDate>
     
 	<atom:link href="http://example.org/kurse/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gokurs</title>
+      <link>http://example.org/kurse/gokurs/</link>
+      <pubDate>Thu, 04 Apr 2019 11:49:22 +0200</pubDate>
+      
+      <guid>http://example.org/kurse/gokurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugokurs</title>
+      <link>http://example.org/kurse/hugokurs/</link>
+      <pubDate>Thu, 04 Apr 2019 11:49:22 +0200</pubDate>
+      
+      <guid>http://example.org/kurse/hugokurs/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
